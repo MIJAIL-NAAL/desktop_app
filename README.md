@@ -6,10 +6,12 @@ This is a test program.
 
 <br>
 
-## Graphic interface:
+## Graphical interface:
 
+![Restaurant Management Desktop Application](https://github.com/MIJAIL-NAAL/desktop_app/blob/main/img/image_00.png)
 
+![Restaurant Management Desktop Application](https://github.com/MIJAIL-NAAL/desktop_app/blob/main/img/image_01.png)
 
-
+![Restaurant Management Desktop Application](https://github.com/MIJAIL-NAAL/desktop_app/blob/main/img/image_02.png)
 
 
